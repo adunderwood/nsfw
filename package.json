@@ -16,13 +16,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adunderwood/avm.git"
+    "url": "git+https://github.com/adunderwood/nsfw.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/adunderwood/avm/issues"
+    "url": "https://github.com/adunderwood/nsfw/issues"
   },
-  "homepage": "https://github.com/adunderwood/avm#readme",
+  "homepage": "https://github.com/adunderwood/nsfw#readme",
   "keywords": []
 }
