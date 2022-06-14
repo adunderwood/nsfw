@@ -1,0 +1,28 @@
+{
+  "name": "avm",
+  "version": "1.0.0",
+  "description": "## NSFW",
+  "main": "avm.js",
+  "dependencies": {
+    "dclassify": "^1.1.2",
+    "http": "0.0.1-security",
+    "pluralize": "^8.0.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node nsfw.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adunderwood/avm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adunderwood/avm/issues"
+  },
+  "homepage": "https://github.com/adunderwood/avm#readme",
+  "keywords": []
+}
